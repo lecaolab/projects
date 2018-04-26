@@ -55,6 +55,7 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
+[mixOmics](www.mixOmics.org) | A suite of latent component based methods encompassing different data integration frameworks (cross-platform, multi-omics) and feature selection| Kim-Anh Le Cao[@lecaolab](https://github.com/lecaolab), University of Melbourne|
 
 ### Population Variation 
 
